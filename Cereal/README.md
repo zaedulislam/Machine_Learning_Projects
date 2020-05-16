@@ -1,4 +1,5 @@
 # Hierarchical Clustering on Cereal Data
+The clustering technique can be very handy when it comes to unlabeled data. Since most of the data in the real-world is unlabeled and annotating the data has higher costs, clustering techniques can be used to label unlabeled data.
 
 ## 1. Project Definition
 **Purpose**:
