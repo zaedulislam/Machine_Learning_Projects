@@ -1,3 +1,18 @@
+# Hierarchical Clustering on Cereal Data
+
+## 1. Project Definition
+**Purpose**:
+The purpose of this project is to find several groups of most suitable cereals from the dataset and the 
+correlation between each of the ingredients to have better knowledge so that it is to possible suggest 
+a specific kind of cereals to a exact group of consumers/customers/patients.
+
+**Project Scope**: After having the cut-point on the dendogram to find several clusters for a broad 
+knowledge discovery.
+
+**Key Stakeholders**: The key stake holders are all individuals who consume cereal on regular basis for 
+breakfast or dinner or even as a snack.
+
+
 **Data source:** [Healthy Breakfast Story](https://dasl.datadescription.com//Stories/HealthyBreakfast.html) at StatLab ( http://lib.stat.cmu.edu/ ) 
 
 **Data files:** 
