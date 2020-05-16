@@ -12,6 +12,18 @@ knowledge discovery.
 **Key Stakeholders**: The key stake holders are all individuals who consume cereal on regular basis for 
 breakfast or dinner or even as a snack.
 
+## 2. Literature Survey
+There have been no comprehensive reviews of the relation of breakfast cereal consumption to nutrition 
+and health. Breakfast cereal consumption is associated with diets higher in vitamins and minerals and 
+lower in fat but is not associated with increased intakes of total energy or sodium or risk of dental caries. 
+Most studies on the nutritional impact are cross-sectional, with very few intervention studies, so 
+breakfast cereal consumption may be a marker of an overall healthy lifestyle. Breakfast cereals have 
+become immensely popular in fast-moving countries, as they provide a bowl full of nutrients in a short 
+and simple way.
+
+So, this report may help to those who want a healthy breakfast by given them proper data analysis.
+
+## 3. Dataset Description
 
 **Data source:** [Healthy Breakfast Story](https://dasl.datadescription.com//Stories/HealthyBreakfast.html) at StatLab ( http://lib.stat.cmu.edu/ ) 
 
