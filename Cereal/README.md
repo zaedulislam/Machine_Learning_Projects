@@ -49,6 +49,14 @@ So, this report may help to those who want a healthy breakfast by given them pro
 ## 4. Questions
 Use the given data files to find the following: 
 1. Is a strong correlation between dietary fiber and potassium? 
+
+**Findings:** Yes, there is a strong correlation between dietary fiber and potassium. Examining the plot area in
+the graph, the points produce a lower-left-to-upper-right pattern (see below), which shows a positive
+correlation between dietary fiber and potassium to be specific. This pattern means that when the score
+of one observation is high, we expect the score of the other observation to be high as well, and vice
+versa. The below Scatter plot shows the correlation,
+<image src= "Visualization/Dietery fiber vs Potassium.jpeg" width="1000px">
+
 2. Are groups of cereals from which we can choose according to our preferences? 
 3. See other correlation between the data given in the files.
 4. Try to find some other information
