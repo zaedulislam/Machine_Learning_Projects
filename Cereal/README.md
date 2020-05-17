@@ -53,3 +53,8 @@ Use the given data files to find the following:
 3. See other correlation between the data given in the files.
 4. Try to find some other information
 
+
+## References
+### Finding Correlation Between Many Variables in Python
+1. [pandas.DataFrame.corr](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
+2. [Pearson Coefficient of Correlation with Python](https://levelup.gitconnected.com/pearson-coefficient-of-correlation-using-pandas-ca68ce678c04)
