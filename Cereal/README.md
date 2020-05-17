@@ -58,3 +58,4 @@ Use the given data files to find the following:
 ### Finding Correlation Between Many Variables in Python
 1. [pandas.DataFrame.corr](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
 2. [Pearson Coefficient of Correlation with Python](https://levelup.gitconnected.com/pearson-coefficient-of-correlation-using-pandas-ca68ce678c04)
+3. [seaborn.heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
