@@ -47,7 +47,7 @@ So, this report may help to those who want a healthy breakfast by given them pro
 11. **rating**: a rating of the cereals (calculated by Consumer Reports)
 
 ## 4. Methodology
-**Step 1:** At first, import the dataset into .csv format from .txt file.
+**Step 1:** At first, import the dataset(cereal-updated.txt) into .csv format from .txt file.
 
 **Step 2:** Import necessary libraries
 
