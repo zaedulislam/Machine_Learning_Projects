@@ -46,12 +46,25 @@ So, this report may help to those who want a healthy breakfast by given them pro
 10. **shelf**: display shelf (1, 2, or 3, counting from the floor)
 11. **rating**: a rating of the cereals (calculated by Consumer Reports)
 
-## 4. Questions
+## 4. Method
+**Step 1:** At first, import the dataset into .csv format from .txt file.
+
+**Step 2:** Import necessary libraries
+
+**Step 3:** Read the dataset and store it into pandas dataframe
+
+**Step 4:** Then, data Preparation is done. Missing values are filled up by the mean values of those attributes respectively.
+
+**Step 5:** Find the number of clusters from Dendrogram
+
+**Step 6:** Fitting Hierarchical Clustering to the Cereals and predict
+
+## 5. Questions
 Use the given data files to find the following: 
-1. Is a strong correlation between dietary fiber and potassium? 
-2. Are groups of cereals from which we can choose according to our preferences? 
-3. See other correlation between the data given in the files.
-4. Try to find some other information
+1. Is a strong correlation between dietary fiber and potassium?  
+2. See other correlation between the data given in the files.
+3. Try to find some other information
+4. Are groups of cereals from which we can choose according to our preferences?
 
 
 ## References
