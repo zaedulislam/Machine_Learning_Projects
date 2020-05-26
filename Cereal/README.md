@@ -46,7 +46,7 @@ So, this report may help to those who want a healthy breakfast by given them pro
 10. **shelf**: display shelf (1, 2, or 3, counting from the floor)
 11. **rating**: a rating of the cereals (calculated by Consumer Reports)
 
-## 4. Method
+## 4. Methodology
 **Step 1:** At first, import the dataset into .csv format from .txt file.
 
 **Step 2:** Import necessary libraries
@@ -58,6 +58,8 @@ So, this report may help to those who want a healthy breakfast by given them pro
 **Step 5:** Find the number of clusters from Dendrogram
 
 **Step 6:** Fitting Hierarchical Clustering to the Cereals and predict
+
+**Step 7:** Finally, clusters are seperated.
 
 ## 5. Questions
 Use the given data files to find the following: 
