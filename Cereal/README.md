@@ -1,11 +1,11 @@
 # Hierarchical Clustering on Cereal Data
 The clustering technique can be very handy when it comes to unlabeled data. Since most of the data in the real-world is unlabeled and annotating the data has higher costs, clustering techniques can be used to label unlabeled data.
 
+Google Colab Notebook Link: [Cereal.ipynb](https://colab.research.google.com/drive/185qhjA_Cwgwj0nGQwWjUhu6ufK5-pbB_?usp=sharing)
+
 ## 1. Project Definition
 **Purpose**:
-The purpose of this project is to find several groups of most suitable cereals from the dataset and the 
-correlation between each of the ingredients to have better knowledge so that it is possible to suggest 
-a specific kind of cereals to a exact group of consumers/customers/patients.
+The purpose of this healthcare related project was to find several groups of most suitable cereals and the correlation between each of the ingredients from the given dataset to have better insights so that it would be possible to suggest a specific kind of cereals to an exact group of consumers or patients. The Agglomerative Hierarchical Clustering algorithm was adopted to perform this task.
 
 **Project Scope**: After having the cut-point on the dendogram to find several clusters for a broad 
 knowledge discovery.
@@ -57,7 +57,7 @@ So, this report may help to those who want a healthy breakfast by given them pro
 
 **Step 5:** Find the number of clusters from Dendrogram
 
-**Step 6:** Fitting Hierarchical Clustering to the Cereals and predict
+**Step 6:** Fitting Agglomerative Hierarchical Clustering to the Cereals data and predict
 
 **Step 7:** Finally, clusters are seperated.
 
