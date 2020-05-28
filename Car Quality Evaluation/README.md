@@ -1,4 +1,4 @@
-# Car Quality Evaluation
+# Car Acceptability Evaluation
 
 ## Dataset Description
 **Data Source**: [Car Evaluation Data Set](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
