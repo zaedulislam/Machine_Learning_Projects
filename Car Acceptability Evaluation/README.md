@@ -1,5 +1,7 @@
 # Car Acceptability Evaluation
 
+When a person considers purchasing a car, his/her choice could be influenced by various aspects. These criteria might include price, maintenance, seating capacity, safety, etc. In this project, after performing the exploratory data analysis on the Car Evaluation Dataset, we trained some well-known classification models to predict the customer acceptability of cars for each instance and compare the accuracy among them.
+
 **Google Colab Notebook Link**: [Car Acceptability Evaluation.ipynb](https://colab.research.google.com/drive/1ffpIpr0DZKG86VKQxpSZK7a4X_elxGDW?usp=sharing)
 
 ## Dataset Description
